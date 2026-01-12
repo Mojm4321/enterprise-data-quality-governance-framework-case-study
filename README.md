@@ -18,10 +18,12 @@ The framework focuses on enterprise-critical data elements or domains:
 - Product
 - Sales
 
+## Key Components
+
 It prioritises data quality across six dimensions:
--Accuracy
--Timeliness
--Completeness
--Validity
--Consistency
--Uniqueness
+- Accuracy
+- Timeliness
+- Completeness
+- Validity
+- Consistency
+- Uniqueness
