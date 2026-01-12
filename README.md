@@ -18,8 +18,6 @@ The framework focuses on enterprise-critical data elements or domains:
 - Product
 - Sales
 
-## Key Components
-
 It prioritises data quality across six dimensions:
 - Accuracy
 - Timeliness
@@ -27,3 +25,14 @@ It prioritises data quality across six dimensions:
 - Validity
 - Consistency
 - Uniqueness
+
+## Key Components
+
+- Enterprise data governance operating model
+- Data quality framework embedded across the data lifecycle
+- Metadata management
+- Master Data Management
+- Privacy, consent, retention, and compliance controls
+- Cloud-based architecture (AWS & Snowflake)
+- Maturity model (current vs target state)
+  
