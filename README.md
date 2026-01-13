@@ -9,7 +9,7 @@ This project focuses on the importance of enterprise level data quality and data
 
 ## Business Context 
 
-EverTrend Retail Group (ETR) operates across physical stores, e-commerce, and mobile platforms. Its rapid growth through mergers and digital expansion has resulted in fragmented and inconsistent data across core systems including Salesforce, Oracle ERP, Shopify and Excel. These challenges have led to poor data quality, analytics bottlenecks, increased regulatory risk and limited ability to scale advanced capabilities such as AI-driven personalisation and dynamic pricing.
+EverTrend Retail Group (ETR) operates across physical stores, e-commerce, and mobile platforms. Its rapid growth through mergers and digital expansion has resulted in fragmented and inconsistent data across core systems including Salesforce, Oracle ERP, Shopify and Excel. These challenges have led to poor data quality, analytics bottlenecks, increased regulatory risk and a limited ability to scale advanced capabilities such as AI-driven personalisation and dynamic pricing.
 
 ## Scope
 
@@ -28,7 +28,7 @@ It prioritises data quality across six dimensions:
 
 ## Key Components
 
-- Enterprise data governance operating model (Data Owners, Stewards, Central Data Team, DPO)
+- Enterprise data governance operating model (Data Owners, Stewards, Central Data Team, Data Privacy Officer)
 - Data quality framework embedded across the data lifecycle
 - Metadata management (business glossary, data dictionary, lineage)
 - Master Data Management (golden records)
@@ -44,6 +44,5 @@ It prioritises data quality across six dimensions:
 ## Sneak Peek - Inside the Framework
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/7be53a031a4512ccc893b69916ec7e05f2212427/Screenshot%202026-01-13%20at%2000.01.01.png)
 Establishing a shared data foundation starts with clear ownership, accountability and collaboration across the organisation.
- 
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/d0f97fc8df5f17f92ae51d18a2f8a3b7230e5815/Screenshot%202026-01-13%20at%2000.01.25.png) 
 Embedding data quality controls at the point of data creation and enforcing them across the end to end data lifecycle ensures data remains accurate, consistent and trustworthy. This approach establishes a strong culture of quality, reducing costly remediation efforts and preventing downstream errors before they occur.
