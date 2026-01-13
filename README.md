@@ -1,4 +1,4 @@
-#  Enterprise Data Quality & Data Governance Framework - Case Study
+#  Enterprise Data Quality & Data Governance Framework - Case Study By Jolly Madamedon
 
 # Introduction
 
