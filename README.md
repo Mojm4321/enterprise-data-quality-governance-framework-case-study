@@ -37,9 +37,12 @@ It prioritises data quality across six dimensions:
 - Data maturity model (current vs target state)
 
 ## Documents Attached
-
 - Data Quality Framework (Powerpoint)
 - Executive Summary (Word)
+
+## How to access documents
+![image_alt](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/7a4e74e92311521d04dd124dbaa7f1dffe1e20ef/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png) 
+To download and view the document, click the file name and the select "View raw".
 
 ## Sneak Peek - Inside the Framework
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/7be53a031a4512ccc893b69916ec7e05f2212427/Screenshot%202026-01-13%20at%2000.01.01.png)
