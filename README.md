@@ -41,7 +41,7 @@ It prioritises data quality across six dimensions:
 - Executive Summary (Word)
 
 ## How to access documents
-![image_alt]([https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/7a4e74e92311521d04dd124dbaa7f1dffe1e20ef/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png]) 
+![image_alt]([https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/7a4e74e92311521d04dd124dbaa7f1dffe1e20ef/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png]](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/3a9f025c12bb44cef8c8bf5d5dda94a14155858f/Repository%20(Executive%20Summary%20%26%20Data%20Quality%20Framework).png)) 
 To download and view the document, click the file name and then select "View raw".
 
 ## Sneak Peek - Inside the Framework
