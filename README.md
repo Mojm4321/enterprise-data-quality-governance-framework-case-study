@@ -45,7 +45,7 @@ It prioritises data quality across six dimensions:
 To download and view the document, click the file name and then select "View raw".
 
 ## Sneak Peek - Inside the Framework
-![image_alt]()
+![image_alt](https://github.com/Mojm4321/A-Data-Quality-and-Governance-Case-Study/blob/e4eb0deebd0af86c879cf55ca7f392dead54b690/Data%20Quality%20Framework%20Introduction%20Slide.png)
 Establishing a shared data foundation starts with clear ownership, accountability and collaboration across the organisation.
 
 ![image_alt](https://github.com/Mojm4321/enterprise-data-quality-governance-framework-case-study/blob/d0f97fc8df5f17f92ae51d18a2f8a3b7230e5815/Screenshot%202026-01-13%20at%2000.01.25.png) 
